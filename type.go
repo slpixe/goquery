@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/andybalholm/cascadia"
+	"github.com/slpixe/cascadia"
 
 	"golang.org/x/net/html"
 )
